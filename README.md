@@ -1,8 +1,6 @@
 - Hi, I’m @griffindan.
-- I’m interested in Python, Java(and script), HTML and CSS.
-- I’m currently learning C programming.
+- Currently learning Docker and Kubernetes
 - I’m looking to collaborate on anything :)
-- How to reach me griffindan11@gmail.com
 
 <!---
 griffindan7/griffindan7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
