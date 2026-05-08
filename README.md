@@ -1,6 +1,4 @@
-- Hi, I’m @griffindan.
-- Currently learning Docker and Kubernetes
-- I’m looking to collaborate on anything :)
+- Hi, I’m dan.
 
 <!---
 griffindan7/griffindan7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
